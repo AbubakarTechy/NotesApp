@@ -101,3 +101,36 @@ All design decisions and core logic were implemented by me.
 ---
 
 ## 📦 Project Structure
+CampusNotes/
+│
+├── client/ (Frontend)
+├── server/ (Backend)
+├── models/
+├── routes/
+├── controllers/
+├── middleware/
+├── uploads/ (if used locally)
+└── README.md
+
+
+---
+
+## 📈 Future Improvements
+
+- Chat system between students
+- Advanced search filters
+- Mobile app version
+- Admin dashboard
+- Analytics for uploads/downloads
+
+---
+
+## 👨‍💻 Author
+
+**AbubakarTechy**
+
+---
+
+## ⭐ Purpose
+
+This project was built as a learning + practical university project to understand full-stack development, authentication systems, file storage, and scalable web architecture.
